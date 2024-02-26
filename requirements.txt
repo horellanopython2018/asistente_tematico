@@ -1,0 +1,11 @@
+pyttsx3
+openai
+json
+sys
+time
+difflib
+re
+ast
+os
+webbrowser
+ctypes
